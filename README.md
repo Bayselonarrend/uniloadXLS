@@ -123,3 +123,9 @@
 УПОРЯДОЧИТЬ ПО
 	ВходнаяТаблица.ПорядковыйНомер
 ```
+Запрос выполняется, выгружается в ТЗ и помещается во временное хранилище, адрес которого возвращается в результате выполнения функции.
+
+
+>![Infostart](https://github.com/Bayselonarrend/uniloadXLS/raw/main/infostart.svg)
+>
+>Статья на Инфостарте: [https://infostart.ru/1c/articles/1954271/](https://infostart.ru/1c/articles/1954271/)
